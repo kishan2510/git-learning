@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
     int a=7,b=8;
-    cout<<b-a<<endl;
+    cout<<"Substract="<<b-a<<endl;
     return 0;
 }
